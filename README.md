@@ -4,6 +4,7 @@ This repo contains examples of Interop protocols.
 
 ## Protocols
 
+- [ ] Chainlink CCIP
 - [ ] Axelar
 - [ ] Wormhole
 - [ ] LayerZero
